@@ -16,7 +16,7 @@ import pineappleImg from "../assets/Pineapple.webp";
 import chickenImg from "../assets/Chicken.jpeg";
 import eggImg from "../assets/Eggs.webp";
 import fishImg from "../assets/fish.jpg";
-import beefImg from "../assets/beef.webp";
+import beefImg from "../assets/Beef.webp";
 import sardineImg from "../assets/Sardines.jpg";
 import oilImg from "../assets/Oil.webp";
 import saltImg from "../assets/salt.jpg";
@@ -30,7 +30,7 @@ import bakingPowderImg from "../assets/Baking.webp";
 import groundnutImg from "../assets/Groundnut.jpg";
 
 // Trend Images
-import trend2Img from "../assets/joy.jpg";
+import trend2Img from "../assets/Joy.jpg";
 import trend3Img from "../assets/Nana.jpg";
 import trend4Img from "../assets/trends.jpeg";
 
