@@ -6,7 +6,7 @@ import Products from "@/pages/Products";
 import Contact from "@/pages/Contact";
 import Login from "@/pages/Login";
 import SignUp from "@/pages/SignUp";
-import MyOrder from "@/pages/Myorder";
+import MyOrder from "@/pages/MyOrder";
 import AdminLoginPage from "@/pages/Admin";
 import ContactUsPage from "@/pages/ContactUs";
 import AboutPage from "@/pages/About";
